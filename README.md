@@ -6,7 +6,10 @@ Jeremiah Thomas Wooten, Trevor Kenneth Leach, Zach 'Dirty' Dobbs
 
 ### Who's going?
 
-The members of the team
+The members of the team:
+- Product Owner: Jeremiah Thomas Wooten
+- Scrum Master: Trevor Kenneth Leach
+- Team Member: Zach 'Dirty' Dobbs
 
 ### The location
 
@@ -22,4 +25,4 @@ $1500 per person
 
 ### Purpose of the trip
 
-Have fun
+Have fun and shred some gnarly waves 
