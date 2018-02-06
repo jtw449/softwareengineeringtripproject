@@ -2,14 +2,13 @@
 
 ### The team
 
-Jeremiah Thomas Wooten, Trevor Kenneth Leach, Zach 'Dirty' Dobbs
+- **Product Owner:** Jeremiah Thomas Wooten
+- **Scrum Master:** Trevor Kenneth Leach
+- **Team Member:** Zach 'Dirty' Dobbs
 
 ### Who's going?
 
-The members of the team:
-- Product Owner: Jeremiah Thomas Wooten
-- Scrum Master: Trevor Kenneth Leach
-- Team Member: Zach 'Dirty' Dobbs
+The members of the team 
 
 ### The location
 
