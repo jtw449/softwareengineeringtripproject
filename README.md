@@ -4,7 +4,7 @@
 
 - **Product Owner:** Jeremiah Thomas Wooten
 - **Scrum Master:** Trevor Kenneth Leach
-- **Team Member:** Zach 'Dirty' Dobbs
+- **Team Members:** Zach 'Dirty' Dobbs, Will Givens
 
 ### Who's going?
 
