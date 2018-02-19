@@ -25,3 +25,13 @@ $1500 per person
 ### Purpose of the trip
 
 Have fun and shred some gnarly waves 
+
+## Trip Information
+
+**Departure Date/Time**: 
+
+[Travel Plans](travel/README.md)
+
+[Hotel](hotel/README.md)
+
+[Attractions to Visit](attractions/README.md)
