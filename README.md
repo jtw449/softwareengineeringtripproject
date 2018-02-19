@@ -30,8 +30,8 @@ Have fun and shred some gnarly waves
 
 **Departure Date/Time**: 
 
-[Travel Plans](travel/README.md)
+[Travel Plans](travel/travel.md)
 
-[Hotel](hotel/README.md)
+[Hotel](hotel/hotel.md)
 
-[Attractions to Visit](attractions/README.md)
+[Attractions to Visit](attractions/attractions.md)
