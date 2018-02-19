@@ -12,7 +12,7 @@ The members of the team
 
 ### The location
 
-Orlando, Florida, United States, Earth, Solar System, Orion Arm, Milky Way, Local Cluster, Universe, Multiverse, Dale Musser's Simulation
+Orlando, Florida, United States
 
 ### The budget
 
