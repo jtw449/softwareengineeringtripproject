@@ -1,5 +1,7 @@
 # Trip to Orlando, Florida
 
+![alt text](https://github.com/jtw449/softwareengineeringtripproject/blob/master/orlando.png "Orlando")
+
 ### The team
 
 - **Product Owner:** Jeremiah Thomas Wooten
