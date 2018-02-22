@@ -1,7 +1,7 @@
 # What we're bringing
 For our week spent in Orlando, we're going to need to make sure we come prepared for whatever adventures we may embark on.
 
-
+![alt text](https://github.com/jtw449/softwareengineeringtripproject/blob/master/supplies/orlandoskyline.jpg "Orlando Skyline")
 
 ## Individual Necessities  
 Items that every member will need to bring include (but are not limited to):
@@ -33,4 +33,5 @@ Items that we will be bringing on the trip. Money from our budget will be alloca
   * Need to have music to entertain ourselves and possible guests. Zach will be bringing his speaker so we do not need to allocate funds towards this.
 * XBOX ONE $0
   * Zach will bring his XBOX ONE for entertainment whenever the boys are hanging out at the house.
+  
 ** TOTAL COST: ~$735 **
