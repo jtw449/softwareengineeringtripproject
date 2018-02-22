@@ -34,4 +34,4 @@ Items that we will be bringing on the trip. Money from our budget will be alloca
 * XBOX ONE $0
   * Zach will bring his XBOX ONE for entertainment whenever the boys are hanging out at the house.
   
-** TOTAL COST: ~$735 **
+*Total Cost:* **~$735** 
