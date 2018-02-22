@@ -35,3 +35,5 @@ Have fun and shred some gnarly waves
 [Hotel](hotel/hotel.md)
 
 [Attractions to Visit](attractions/attractions.md)
+
+[Supplies](supplies/supplies.md)
